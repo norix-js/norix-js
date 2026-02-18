@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MEAN+%7C+MERN+%7C+Node+%7C+React+%7C+Angular+%7C+Next+%7C+Express+%7C+Nest)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MEAN+%7C+MERN+%7C+Node+%7C+React+%7C+Angular+%7C+Next+%7C)
 
 ## Intro
 
@@ -100,10 +100,10 @@ From intuitive front-end interfaces to scalable back-end systems and production-
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=reachosamaarshad&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=norix-js&theme=radical&hide_border=true)
 
-![GitHub Followers](https://img.shields.io/github/followers/reachosamaarshad?style=flat-square)
-![GitHub User's Stars](https://img.shields.io/github/stars/reachosamaarshad?style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/norix-js?style=flat-square)
+![GitHub User's Stars](https://img.shields.io/github/stars/norix-js?style=flat-square)
 
 ---
 
