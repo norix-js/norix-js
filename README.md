@@ -1,4 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;MEAN+%7C+MERN+%7C+Node+%7C+React+%7C+Angular+%7C+Next+%7C+Express+%7C+Nest)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;%20MEAN+%7C+MERN+%7C+Node+%7C+React+%7C+Angular+%7C+Next+%7C+Express+%7C+Nest)
+
 
 ## Intro
 
